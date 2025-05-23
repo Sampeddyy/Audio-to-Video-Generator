@@ -1,8 +1,6 @@
 # Audio-to-Video-Generator
 A Python-based tool that converts written scripts into narrated videos using AI voiceovers and stock footage — fully automated from PDF to MP4.
-# 🎞️ Audio-to-Video Generator
 
-A Python-based tool that automatically converts written scripts (PDF) into narrated videos using AI-generated audio and stock visuals.
 
 ## 🚀 Features
 - Extracts text from PDF input
