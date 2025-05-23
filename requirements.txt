@@ -1,0 +1,4 @@
+moviepy
+PyPDF2
+python-dotenv
+pillow<10.0
