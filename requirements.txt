@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+moviepy
+PyPDF2
+python-dotenv
+=======
+moviepy
+PyPDF2
+python-dotenv
+>>>>>>> fb3c0665cce395069ef6e567c1fc1fe05d0b0546
+pillow<10.0
